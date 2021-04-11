@@ -7,7 +7,7 @@ I'm Supratim.
 </p>
 
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=dark&&text_color=ffffff" />
   </p>
   
 <p align='center'>
