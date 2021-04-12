@@ -5,7 +5,7 @@
 <h3 align="center"> I'm Supratim</h3>
 <h2 align="center">A passionate developer from India</h2>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=synthwave&text_color=ffffff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=synthwave&text_color=ffffff&hide=CSS" />
   </p>
   
 <p align='center'>
