@@ -7,11 +7,11 @@ I'm Supratim.
 </p>
 
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=dark&&text_color=ffffff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=synthwave" />
   </p>
   
 <p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=191919">
+ <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&&show_icons=true&title_color=ffffff&text_color=ffffff&theme=synthwave">
 </p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
