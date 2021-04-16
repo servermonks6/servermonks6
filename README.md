@@ -9,7 +9,7 @@
   </p>
   
 <p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D ">
+ <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D&hide=contribs ">
 </p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
