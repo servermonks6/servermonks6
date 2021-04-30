@@ -5,13 +5,15 @@
 <h3 align="center"> I'm Supratim</h3>
 <h2 align="center">A passionate developer from India</h2>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=synthwave&text_color=ffffff&hide=CSS" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=synthwave&text_color=ffffff&hide=CSS,SCSS" />
   </p>
   
 <p align='center'>
  <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D&hide=contribs ">
 </p>
-
+<p align='center'>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="Supratim-Barai" />
+</p>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 <p align="center">
