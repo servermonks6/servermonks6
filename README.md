@@ -17,7 +17,7 @@
 <p align='center'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="Supratim-Barai" />
 </p>
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>"Arise,Awake And Stop Not Until The Goal is Achieved!"</i></h1>
 
 <p align="center">
 <a href="https://twitter.com/supratim_barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="supratim_barai" height="30" width="40" /></a>
