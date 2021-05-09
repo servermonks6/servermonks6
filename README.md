@@ -14,9 +14,9 @@
 <p align='center'>
  <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D&hide=contribs ">
 </p>
-<!-- <p align='center'> -->
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="Supratim-Barai" /> -->
-
+<p align='center'> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="Supratim-Barai" />
+</p>
 <h1 align='center'><i>"Arise,Awake And Stop Not Until The Goal is Achieved!"</i></h1>
 
 <p align="center">
