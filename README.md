@@ -11,17 +11,10 @@
 <p align='center'>
  <img src="https://github-readme-stats.vercel.app/api?username=servermonks6&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D&hide=contribs ">
 </p>
-<p align='center'> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=servermonks6&text_color=ffffff&theme=synthwave&icon_color=E5566D" alt="Server Monks" />
-</p>
+
 <h1 align='center'><i>"Arise,Awake And Stop Not Until The Goal is Achieved!"</i></h1>
 
-<p align="center">
-<!-- <a href="https://twitter.com/supratim_barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="supratim_barai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/supratim-barai-95992a14a" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="supratim-barai-95992a14a" height="30" width="40" /></a>
-<a href="https://fb.com/supratim.barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="supratim.barai" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/itzz_supi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itzz_supi" height="30" width="40" /></a> -->
-</p>
+
 
 
 
