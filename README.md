@@ -8,9 +8,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=servermonks6&theme=synthwave&text_color=ffffff" />
   </p>
   
-<p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=servermonks6&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D&hide=contribs ">
-</p>
+
 
 <h1 align='center'><i>"Arise,Awake And Stop Not Until The Goal is Achieved!"</i></h1>
 
